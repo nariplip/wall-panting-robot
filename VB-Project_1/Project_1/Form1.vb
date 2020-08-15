@@ -113,6 +113,8 @@
     Private Sub Button_Rigth_Click(sender As Object, e As EventArgs) Handles Button_Rigth.Click
         If SerialPort1.IsOpen Then
             SerialPort1.WriteLine("R")
+            SerialPort1.WriteLine("R")
+
         End If
     End Sub
 

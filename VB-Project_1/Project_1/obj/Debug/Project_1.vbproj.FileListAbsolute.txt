@@ -20,3 +20,7 @@ C:\Project\VB\VB-Project_1\Project_1\obj\Debug\Project_1.vbprojResolveAssemblyRe
 C:\Project\VB\VB-Project_1\Project_1\obj\Debug\Project_1.Form1.resources
 C:\Project\VB\VB-Project_1\Project_1\obj\Debug\Project_1.Resources.resources
 C:\Project\VB\VB-Project_1\Project_1\obj\Debug\Project_1.vbproj.GenerateResource.Cache
+C:\project-wall-panting-robot\wall-panting-robot\VB-Project_1\Project_1\bin\Debug\Project_1.exe.config
+C:\project-wall-panting-robot\wall-panting-robot\VB-Project_1\Project_1\obj\Debug\Project_1.exe
+C:\project-wall-panting-robot\wall-panting-robot\VB-Project_1\Project_1\obj\Debug\Project_1.xml
+C:\project-wall-panting-robot\wall-panting-robot\VB-Project_1\Project_1\obj\Debug\Project_1.pdb
